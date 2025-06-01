@@ -1,0 +1,1 @@
+# Exemplos_Exercicios_Numpy
